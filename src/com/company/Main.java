@@ -6,6 +6,7 @@ public class Main {
 	    System.out.println("Hello world");
         A.pp();
         TestFirst.printIt();
+        ForSecondPush.toPrint();
 
     }
 }
